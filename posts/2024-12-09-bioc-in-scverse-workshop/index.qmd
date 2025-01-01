@@ -16,9 +16,7 @@ lightbox: true
 
 The first SpatialData hackathon and workshop was organized by the [scverse](https://scverse.org/) community on 12-14 November 2024 in Basel, Switzerland. 20 attendees had gathered to work on improving online materials, tutorials, and scalability of existing spatial omics and scverse frameworks where interoperability across software platforms were prioritized.
 
-::: {.column width="90%"}
-![](1731708109822.jpeg){fig-align="center" group="gallery-intro" alt="Infographic summarizing EuroBioC2024 conference statistics"}
-:::
+![](1731708109822.jpeg){width="80%" fig-align="center" group="gallery-intro" alt="SpatialData Workshop attendees"}
 
 ## Interoperability for Spatial Omics
 
@@ -32,7 +30,7 @@ A group of R/Bioconductor developers lead by Helena L. Crowell have teamed up to
 :::
 
 ::: {.column width="50%"}
-![](PXL_20241112_084126060.MP.jpg){group="gallery-intro" alt="R Interoperability Track"}
+![](PXL_20241112_084126060.MP.jpg){alt="R Interoperability Slide"}
 :::
 *R Interoperability Team (clockwise): Artür Manukyan, Dario Righelli, Vincent Carey, Kevin Yamauchi, Louise Deconinck, Estella Yixing Dong, Helena L. Crowell*
 :::::
@@ -61,7 +59,11 @@ For track 1 specifically, R/Bioconductor packages [`SpatialData`](https://github
 
 SpatialData is a data framework that comprises a FAIR storage format and a collection of libraries originally written in python for performant access, alignment, and processing of spatial omics datasets. SpatialData is currently maintained by the [scverse](https://scverse.org/) consortium.
 
+**Website**: [https://spatialdata.scverse.org/](https://spatialdata.scverse.org/)
+
 **SpatialData core team**: Luca Marconato, Giovanni Palla, Isaac Virshup, Wouter-Michiel Vierdag, Tim Treis, Kevin Yamauchi, Josh Moore. 
+
+![](spatialdata.png){width="80%" fig-align="center" alt="R Interoperability Team"}
 
 ## scverse
 
