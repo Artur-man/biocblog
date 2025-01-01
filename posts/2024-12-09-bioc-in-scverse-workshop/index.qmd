@@ -53,7 +53,15 @@ The Hackathon event in Basel focused on four tracks which leveraged multiple pro
 
 4. **Ergonomics and user-friendliness**: Enhancing the usability and accessibility of the SpatialData framework for both first-time users and third-party developers.
 
-You can find more information on outcomes of each of these tracks in the [BioHackArxiv](https://osf.io/preprints/biohackrxiv/8ck3e) preprint. For track 1 specifically, R/Bioconductor packages [`SpatialData`](https://github.com/HelenaLC/SpatialData) (representation), [`SpatialData.plot`](https://github.com/HelenaLC/SpatialData.plot) (visualization), [`SpatialData.data`](https://github.com/HelenaLC/SpatialData.data) (datasets) are under development, and a [`BiocBook`](https://www.bioconductor.org/packages/release/bioc/html/BiocBook.html) consolidation vignettes and scientific workflows is in planning. 
+You can find more information on outcomes of each of these tracks in the [BioHackArxiv](https://osf.io/preprints/biohackrxiv/8ck3e) preprint. 
+
+For track 1 specifically, R/Bioconductor packages [`SpatialData`](https://github.com/HelenaLC/SpatialData) (representation), [`SpatialData.plot`](https://github.com/HelenaLC/SpatialData.plot) (visualization), [`SpatialData.data`](https://github.com/HelenaLC/SpatialData.data) (datasets) are under development, and a [`BiocBook`](https://www.bioconductor.org/packages/release/bioc/html/BiocBook.html) consolidation vignettes and scientific workflows is in planning. 
+
+## SpatialData Framework
+
+SpatialData is a data framework that comprises a FAIR storage format and a collection of libraries originally written in python for performant access, alignment, and processing of spatial omics datasets. SpatialData is currently maintained by the [scverse](https://scverse.org/) consortium.
+
+**SpatialData core team**: Luca Marconato, Giovanni Palla, Isaac Virshup, Wouter-Michiel Vierdag, Tim Treis, Kevin Yamauchi, Josh Moore. 
 
 ## scverse
 
