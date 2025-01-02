@@ -61,7 +61,7 @@ SpatialData is a data framework that comprises a FAIR storage format and a colle
 
 **Website**: [https://spatialdata.scverse.org/](https://spatialdata.scverse.org/)
 
-**SpatialData core team**: Luca Marconato, Giovanni Palla, Isaac Virshup, Wouter-Michiel Vierdag, Tim Treis, Kevin Yamauchi, Josh Moore. 
+**SpatialData core team**: Luca Marconato, Giovanni Palla, Kevin Yamauchi, Wouter-Michiel Vierdag, Tim Treis, Isaac Virshup, Josh Moore. 
 
 ![](spatialdata.png){width="80%" fig-align="center" alt="R Interoperability Team"}
 
